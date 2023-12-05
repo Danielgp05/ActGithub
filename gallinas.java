@@ -39,6 +39,7 @@ public class Ex2019_ejer2 {
 				if(!valido) {
 					
 					System.out.println("Lo siento, en estos momentos no queda sitio en ningún gallinero.");
+					System.out.println("HASTA PRONTO");
 					break;
 					
 				}
